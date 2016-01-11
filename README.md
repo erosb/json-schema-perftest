@@ -33,8 +33,10 @@ Clone this repository:
 
 Build the project with Maven:
 
-`cd json-schema-perftest/`
-`mvn clean install -Pdist`
+```
+cd json-schema-perftest/
+mvn clean install -Pdist
+```
 
 Run the test:
 
