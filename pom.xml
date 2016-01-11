@@ -43,7 +43,7 @@
 							<appendAssemblyId>false</appendAssemblyId>
 							<archive>
 								<manifest>
-									<mainClass>Perf</mainClass>
+									<mainClass>org.everit.json.schema.perftest.Perf</mainClass>
 								</manifest>
 							</archive>
 						</configuration>
