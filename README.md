@@ -18,9 +18,9 @@ Tests results on my local computer:
 
 |   |fge|everit-org |
 |---|---|-----------|
-|min|6655 ms|1583 ms|
-|max|7611 ms|2006 ms|
-|avg|7178 ms|1699 ms|
+|min|6655 ms|2892 ms|
+|max|7611 ms|3963 ms|
+|avg|7178 ms|3431 ms|
 
 Running the tests on other workstations gave a bit different numbers but similar ratios.
 
